@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1, DEAD – https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDNational/default/stream.m3u8
+https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDNational/default/stream.m3u8
+#EXTINF:-1, DEAD – https://rsb.live/rstv/live1/playlist.m3u8
+https://rsb.live/rstv/live1/playlist.m3u8
+#EXTINF:-1, DEAD – https://lsbcdn.live/lsb.m3u8
+https://lsbcdn.live/lsb.m3u8
+#EXTINF:-1, DEAD – https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDSports/default/stream.m3u8
+https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDSports/default/stream.m3u8
+#EXTINF:-1, DEAD – https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDNews/default/stream.m3u8
+https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDNews/default/stream.m3u8
+#EXTINF:-1, DEAD – https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDBharati/default/stream.m3u8
+https://d1v8dvnh8n0poe.cloudfront.net/bpk-tv/DDBharati/default/stream.m3u8
+#EXTINF:-1, DEAD – https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178951/master.m3u8
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178951/master.m3u8
+#EXTINF:-1, DEAD – https://abplivetv.akamaized.net/hls/live/2042830/ananda/master.m3u8
+https://abplivetv.akamaized.net/hls/live/2042830/ananda/master.m3u8
+#EXTINF:-1, DEAD – https://vidcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live_720p/index.m3u8
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live_720p/index.m3u8
+#EXTINF:-1, DEAD – https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live_720p/index.m3u8
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live_720p/index.m3u8
+#EXTINF:-1, DEAD – https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live_720p/index.m3u8
+https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live_720p/index.m3u8
+#EXTINF:-1, DEAD – https://somoy.appvila.com/somoy/somoy.m3u8
+https://somoy.appvila.com/somoy/somoy.m3u8
+#EXTINF:-1, DEAD – https://ekattorlive.appvila.com/ekattor/ekattor.m3u8
+https://ekattorlive.appvila.com/ekattor/ekattor.m3u8
+#EXTINF:-1, DEAD – https://jamunalive.appvila.com/jamuna/jamuna.m3u8
+https://jamunalive.appvila.com/jamuna/jamuna.m3u8
+#EXTINF:-1, DEAD – https://independent.appvila.com/independent/independent.m3u8
+https://independent.appvila.com/independent/independent.m3u8
+#EXTINF:-1, DEAD – https://news24live.appvila.com/news24/news24.m3u8
+https://news24live.appvila.com/news24/news24.m3u8
+#EXTINF:-1, DEAD – https://channel24.appvila.com/channel24/channel24.m3u8
+https://channel24.appvila.com/channel24/channel24.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/bijoytv/index.m3u8
+http://103.205.133.48/hls/bijoytv/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/anandatv/index.m3u8
+http://103.205.133.48/hls/anandatv/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/deeptotv/index.m3u8
+http://103.205.133.48/hls/deeptotv/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/asiantv/index.m3u8
+http://103.205.133.48/hls/asiantv/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/mohonatv/index.m3u8
+http://103.205.133.48/hls/mohonatv/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/duronto/index.m3u8
+http://103.205.133.48/hls/duronto/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/dbcnews/index.m3u8
+http://103.205.133.48/hls/dbcnews/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/boishakhitv/index.m3u8
+http://103.205.133.48/hls/boishakhitv/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/nrb/index.m3u8
+http://103.205.133.48/hls/nrb/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/nagorik/index.m3u8
+http://103.205.133.48/hls/nagorik/index.m3u8
+#EXTINF:-1, DEAD – http://103.205.133.48/hls/satv/index.m3u8
+http://103.205.133.48/hls/satv/index.m3u8
 #EXTINF:-1, DEAD – http://172.16.29.2:8090/hls/ddsports.m3u8
 http://172.16.29.2:8090/hls/ddsports.m3u8
 #EXTINF:-1, DEAD – http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
