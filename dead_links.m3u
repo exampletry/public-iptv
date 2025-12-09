@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DEAD – https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1, DEAD – https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1, DEAD – http://10.16.100.213:8080/hls/tsports.m3u8
 http://10.16.100.213:8080/hls/tsports.m3u8
 #EXTINF:-1, DEAD – http://51.83.129.17/tsports/index.m3u8
