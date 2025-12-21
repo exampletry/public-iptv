@@ -59,6 +59,8 @@ https://www.tbn24.com/live-tv-stream/20201_.m3u8
 https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
+#EXTINF:-1,https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1,https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1,https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
