@@ -49,6 +49,8 @@ https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/1.N
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/1.No.Signal.Television(144P).mp4
 https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/1.No.Signal.Television(144P).mp4
+#EXTINF:-1,http://alvetv.com/moviebanglatv/8080/index.m3u8
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1,https://www.tbn24.com/live-tv-stream/20201_.m3u8
